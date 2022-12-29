@@ -2,7 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 
-import html2canvas from 'html2canvas';
+import html2canvas from '@nidi/html2canvas';
 
 import './ComponentToImage.css';
 
